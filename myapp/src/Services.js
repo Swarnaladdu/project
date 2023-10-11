@@ -4,6 +4,7 @@ class Services extends React.Component{
         return(
             <div>
                 <h1>This is my service page</h1>
+                <p>some content</p>
             </div>
         )
     }
